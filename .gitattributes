@@ -1,0 +1,13 @@
+Recam.UnitTests/coveragereport/** linguist-generated
+Recam.UnitTests/coveragereport-impl/** linguist-generated
+Recam.UnitTests/coveragereport-impl-only/** linguist-generated
+Recam.UnitTests/coveragereport-svc-repo/** linguist-generated
+
+# 兜底：测试目录下所有 HTML/CSS/JS 报告产物不计入
+Recam.UnitTests/**/*.html linguist-generated
+Recam.UnitTests/**/*.htm  linguist-generated
+Recam.UnitTests/**/*.css  linguist-generated
+Recam.UnitTests/**/*.js   linguist-generated
+
+# 明确识别 C#
+*.cs linguist-language=C#
