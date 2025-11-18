@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Recam.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d1529d7aaf3a8868d7f9fb63d515052e783cf85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92c43447a5a0c5be407481c141a4459b58c9ab51")]
 [assembly: System.Reflection.AssemblyProductAttribute("Recam.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Recam.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
