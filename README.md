@@ -205,6 +205,22 @@ Navigate to: `https://localhost:5001/swagger`
 
 ---
 
+## 🎥 API Demo
+
+![Swagger API Demo](./assets/swagger-demo.gif)
+
+*Quick demonstration of the API documentation and endpoint testing*
+
+**What's shown:**
+- Comprehensive Swagger/OpenAPI documentation with 30+ endpoints
+- RESTful API design with organized endpoint groups
+- JSON response format for property listing data
+- Easy testing interface for all API operations
+
+For detailed API documentation and testing, run the project locally and visit `/swagger`
+
+---
+
 ## 📈 Future Enhancements
 
 - [ ] Real-time notifications with SignalR
