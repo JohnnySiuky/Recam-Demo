@@ -1,6 +1,12 @@
-# Recam Real Estate Platform
+# Recam Real Estate Platform: Enterprise .NET 9 Architecture Showcase
 
-A full-stack real estate listing management system built with **.NET 9**, **ASP.NET Core Web API**, and **Entity Framework Core**. The platform enables photography companies, agents, and admins to collaboratively manage property listings with media assets, workflows, and role-based access control.
+> **⚠️ Note: Architecture Demonstration**
+>
+> This repository is a **sanitized, non-proprietary demonstration** of the backend architecture designed for the *Recam* commercial platform.
+>
+> While this project reflects the core engineering principles (**Clean Architecture, .NET 9, Azure Integration**) used in the production environment, all **proprietary business logic, sensitive configurations, and client-specific data have been removed or obfuscated** for portfolio demonstration purposes.
+
+A high-performance, headless real estate content management system built with **.NET 9**, **ASP.NET Core Web API**, and **Cloud-Native Principles**. This project demonstrates how to build scalable, testable, and maintainable enterprise software.
 
 ---
 
@@ -235,6 +241,8 @@ For detailed API documentation and testing, run the project locally and visit `/
 ## 👨‍💻 Author
 
 **Johnny Siu**  
+- Role: Lead .NET Developer
+- Focus: Backend Engineering, Cloud Architecture, .NET 9
 - Email: siukwokyu@gmail.com
 - LinkedIn: [www.linkedin.com/in/kwok-yu-siu-6185bb2b0](www.linkedin.com/in/kwok-yu-siu-6185bb2b0)
 - GitHub: [@JohnnySiuky](https://github.com/JohnnySiuky)
